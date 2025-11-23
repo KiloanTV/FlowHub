@@ -60,7 +60,7 @@ So I had the idea to develop a central control unit for PC fans, more precisely,
 |SW2       |SW_SPST_SKQG_WithStem                      |1       |Boot                |C116647    |
 |U1        |SOT223-3_ONS                               |1       |NCP1117LPST33T3G    |C146799    |
 |U2        |ESP-12E                                    |1       |ESP-12F             |C82891     |
-|Quote from LCSC: $21.43 Quote from JLCPCB: $10,96       |                                           |        |                    |           |
+|Quote from LCSC: $21.43 Quote from JLCPCB: $28,68       |                                           |        |                    |           |
 
 
 </details>
